@@ -24,6 +24,76 @@
     grid-column-end: 5;
     grid-row-start:1;
     grid-row-end: 4;
-    width: 150px;
-    height:150px;
+}
+
+.two > img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.o > img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.t > img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.f > img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.fi > img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.s > img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.se > img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.n> img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.e> img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.tw> img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.te> img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
+}
+
+.el> img{
+    object-fit: contain;
+    height: 100%;
+    width:100%;
 }
